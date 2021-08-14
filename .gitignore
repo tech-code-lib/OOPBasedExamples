@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/LibraryApplication/LibraryApp/.vs/LibraryApp
+/LibraryApplication/LibraryApp/LibraryApp/bin/Debug/net5.0
+/LibraryApplication/LibraryApp/LibraryApp/obj/Debug/net5.0
+/LibraryApplication/LibraryApp/LibraryApp/obj/Release/net5.0
+/LibraryApplication/LibraryApp/LibraryApp/obj
+/LibraryApplication/LibraryApp/LibraryAppBusinessLogic/bin/Debug/net5.0
+/LibraryApplication/LibraryApp/LibraryAppBusinessLogic/obj/Debug/net5.0
+/LibraryApplication/LibraryApp/LibraryAppBusinessLogic/obj/Release/net5.0
+/LibraryApplication/LibraryApp/LibraryAppBusinessLogic/obj
